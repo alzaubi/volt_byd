@@ -1,1 +1,6 @@
-
+{
+  "version": "7.0.92",
+  "versionCode": 275,
+  "url": "https://raw.githubusercontent.com/alzaubi/volt_byd/main/VOLT-BYD-v7.0.92-build275.apk",
+  "notes": "VOLT Theme BYD 7.0.92: update checks now use the VOLT BYD repository."
+}
